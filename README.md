@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, eu sou o Lucas Caixeta! 👋
+• Sou estudante de Sistemas de Informação com foco em desenvolvimento eficiente, código limpo e performance.
+• Atualmente estudando/atuando com: linguagens, frameworks e desenvolvimento de software com foco em desempenho e arquitetura.
+• Em constante aprendizado, buscando sempre evoluir em projetos open source, resolver problemas reais com código e colaborar com a comunidade tech.
+__________________________________________________________________________________________________________________
 
-<!--
-**LucaslcZ100/LucaslcZ100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🛠️ Linguagens: C |  | JavaScript  
+- 🎯 Interesse em: arquitetura de computadores, sistemas de baixo nível, estruturas de dados  
+- 🚀 Atualmente trabalhando em projetos acadêmicos relacionados a linguagens de máquina e montagem de instruções  
+- 💡 Busco aplicar conhecimentos em projetos reais, colaborar em open source e enfrentar desafios técnicos
 
-Here are some ideas to get you started:
+📫 Vamos nos conectar? [LinkedIn](https://www.linkedin.com/in/lucas-caixeta-79a60733b) | [Email](lucas1000jog@gmail.com)
+__________________________________________________________________________________________________________________
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Obrigado pela visita!
