@@ -6,9 +6,7 @@
 
 ---
 
-- 🛠️ Linguagens: C | Java | JavaScript | HTML
-- 🎯 Interesse em: arquitetura de computadores, sistemas de baixo nível, estruturas de dados  
-- 🚀 Atualmente trabalhando em projetos acadêmicos relacionados a linguagens de máquina e montagem de instruções  
+- 🛠️ Linguagens: C | Phyton | Java | JavaScript | HTML | CSS 
 - 💡 Busco aplicar conhecimentos em projetos reais, colaborar em open source e enfrentar desafios técnicos
 
 📫 Vamos nos conectar? [LinkedIn](https://www.linkedin.com/in/lucas-caixeta-79a60733b) | [Email](lucas1000jog@gmail.com)
